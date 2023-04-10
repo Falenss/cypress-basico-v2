@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\integration",
+    "\\cypress\\support",
+    "\\src"
+  ],
+  "SelectedNode": "\\cypress\\integration\\CAC-TAT.spec.js",
+  "PreviewInSolutionExplorer": false
+}
